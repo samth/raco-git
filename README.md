@@ -1,4 +1,4 @@
-### Don't use this -- use [`raco pkg`]() instead!
+### Don't use this -- use `raco pkg` instead!
 
 git clone http://github.com/samth/raco-git.git
 raco link raco-git
